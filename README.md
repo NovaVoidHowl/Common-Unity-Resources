@@ -1,4 +1,4 @@
-# NVH Common Components
+# NVH Common Unity Resources
 
 ## Script Overview
 
@@ -12,7 +12,7 @@ This repo contains common components that I use in my unity packages
 
 ![image](https://github.com/NovaVoidHowl/Mesh-Bone-Rebind/assets/31048789/66eaec96-322e-46ac-811d-353f8209198c)
 
-3> Paste in the git url of this repo ``
+3> Paste in the git url of this repo `https://github.com/NovaVoidHowl/Common-Unity-Resources.git`
 
 ![image](https://github.com/NovaVoidHowl/Mesh-Bone-Rebind/assets/31048789/de07970b-7649-4789-aa7b-fc2a00622551)
 

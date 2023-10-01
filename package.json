@@ -4,12 +4,12 @@
     "name": "NovaVoidHowl",
     "url": "https://novavoidhowl.uk/"
   },
-  "changelogUrl": "",
+  "changelogUrl": "https://github.com/NovaVoidHowl/Common-Unity-Resources/releases",
   "description": "Common resources used in my Unity packages",
-  "displayName": "NVH Common resources",
-  "documentationUrl": "",
+  "displayName": "NVH Common Unity Resources",
+  "documentationUrl": "https://github.com/NovaVoidHowl/Common-Unity-Resources/blob/main/README.md",
   "keywords": [],
-  "licensesUrl": "",
+  "licensesUrl": "https://github.com/NovaVoidHowl/Common-Unity-Resources/blob/main/LICENSE.md",
   "name": "uk.novavoidhowl.dev.common",
   "repository": {
     "type": "git",
