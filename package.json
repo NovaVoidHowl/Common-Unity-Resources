@@ -1,0 +1,21 @@
+{
+  "author": {
+    "email": "me@novavoidhowl.com",
+    "name": "NovaVoidHowl",
+    "url": "https://novavoidhowl.uk/"
+  },
+  "changelogUrl": "",
+  "description": "Common resources used in my Unity packages",
+  "displayName": "NVH Common resources",
+  "documentationUrl": "",
+  "keywords": [],
+  "licensesUrl": "",
+  "name": "uk.novavoidhowl.dev.common",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NovaVoidHowl/Common-Unity-Resources.git"
+  },
+  "unity": "2021.3",
+  "unityRelease": "23f1",
+  "version": "0.0.1"
+}
