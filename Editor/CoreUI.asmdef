@@ -1,7 +1,8 @@
 {
   "name": "uk.novavoidhowl.dev.common.editor",
   "references": [
-    "UnityEngine.CoreModule"
+    "UnityEngine.CoreModule",
+    "UnityEditor.CoreModule"
   ],
   "includePlatforms": [],
   "excludePlatforms": [],

@@ -6,6 +6,7 @@ namespace uk.novavoidhowl.dev.common.ui
 {
   public static class CoreUI
   {
+    #if UNITY_EDITOR
     //////////////////////////////////////////
     //// Functions to render common UI elements
     ////
@@ -103,5 +104,6 @@ namespace uk.novavoidhowl.dev.common.ui
         RenderFoldoutEnd();
       }
     }
+    #endif
   }
 }
