@@ -6,7 +6,7 @@ using UnityEditor;
 
 namespace uk.novavoidhowl.dev.common.ui
 {
-  public class coreUI : Editor
+  public class CoreUI
   {
     //////////////////////////////////////////
     //// Functions to render common UI elements
