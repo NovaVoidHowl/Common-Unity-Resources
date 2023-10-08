@@ -1,5 +1,5 @@
 {
-  "name": "uk.novavoidhowl.dev.common.editor",
+  "name": "uk.novavoidhowl.dev.common.editor.coreuihelpers",
   "references": [
     "UnityEngine.CoreModule",
     "UnityEditor.CoreModule"
