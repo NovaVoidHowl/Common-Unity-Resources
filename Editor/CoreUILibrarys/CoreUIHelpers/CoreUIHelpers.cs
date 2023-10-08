@@ -26,9 +26,9 @@ namespace uk.novavoidhowl.dev.common.ui
     }
 
     // Alias for the MakeTextureWithColour function (US English spelling)
-    public static Texture2D MakeTextureWithColor(int width, int height, Color col)
+    public static Texture2D MakeTextureFromColor(int width, int height, Color col)
     {
-        return MakeTextureWithColor(width, height, col);
+        return MakeTextureFromColour(width, height, col);
     }
 
     // Helper function to convert hexadecimal color notation to Color
@@ -42,7 +42,7 @@ namespace uk.novavoidhowl.dev.common.ui
     // Alias for the HexToColour function (US English spelling)
     public static Color HexToColor(string hex)
     {
-        return HexToColor(hex);
+        return HexToColour(hex);
     }
 
     #endif
