@@ -121,13 +121,13 @@ namespace uk.novavoidhowl.dev.common.ui
     }
 
     // Alias for the MakeTextureWithColour function (US English spelling)
-    private static Texture2D MakeTextureWithColor(int width, int height, Color col)
+    public static Texture2D MakeTextureWithColor(int width, int height, Color col)
     {
         return MakeTextureWithColor(width, height, col);
     }
 
     // Helper function to convert hexadecimal color notation to Color
-    private static Color HexToColour(string hex)
+    public static Color HexToColour(string hex)
     {
         Color color = Color.white;
         ColorUtility.TryParseHtmlString(hex, out color);
@@ -135,7 +135,7 @@ namespace uk.novavoidhowl.dev.common.ui
     }
 
     // Alias for the HexToColour function (US English spelling)
-    private static Color HexToColor(string hex)
+    public static Color HexToColor(string hex)
     {
         return HexToColor(hex);
     }
