@@ -35,11 +35,11 @@ namespace uk.novavoidhowl.dev.common
           EditorUserBuildSettings.selectedBuildTargetGroup,
           (defines + ";" + symbol)
         );
-        Debug.Log("[NavMeshFollowerSetup_Ini] Added NVH_COMMON_EXISTS Scripting Symbol.");
+        Debug.Log("[NVH_Common_Unity_Init] Added NVH_COMMON_EXISTS Scripting Symbol.");
       }
       else
       {
-        Debug.Log("[NavMeshFollowerSetup_Ini] NVH_COMMON_EXISTS Scripting Symbol already exists.");
+        //Debug.Log("[NVH_Common_Unity_Init] NVH_COMMON_EXISTS Scripting Symbol already exists.");
       }
     }
   }
