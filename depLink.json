@@ -1,0 +1,17 @@
+[
+  {
+    "Name" : "uk.novavoidhowl.dev.common",
+    "Version" : "https://github.com/NovaVoidHowl/Common-Unity-Resources.git#1.0.2",
+    "Buttons": [
+      {
+        "ButtonLink": "https://github.com/NovaVoidHowl/Common-Unity-Resources",
+        "ButtonText": "View Repo"
+      },
+      {
+        "ButtonLink": "https://github.com/NovaVoidHowl/Common-Unity-Resources/issues",
+        "ButtonText": "Report Issue"
+      }
+    ],
+    "Description": "Common components, scripts, and resources for Unity projects."
+  }
+]
